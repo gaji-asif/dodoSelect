@@ -1,0 +1,462 @@
+/* @import 'tailwindcss/base'; */
+/* @import 'tailwindcss/components'; */
+@import 'tailwindcss/utilities';
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    @apply text-sm !important;
+}
+label {
+    @apply mb-0;
+}
+
+body.modal-open {
+    @apply h-screen !important;
+    @apply overflow-y-hidden !important;
+}
+
+@screen xl {
+    body.modal-open {
+        @apply pr-4 !important;
+    }
+}
+
+a:hover {
+    @apply no-underline;
+}
+
+[x-cloak] {
+    display: none !important;
+}
+
+.line-through {
+    @apply line-through;
+}
+
+.left-sidebar--open {
+    transform: none !important;
+}
+
+.duration-300 {
+    transition-duration: 300ms !important;
+}
+.ease-in {
+    transition-timing-function: cubic-bezier(0.4, 0, 1, 1) !important;
+}
+.ease-out {
+    transition-timing-function: cubic-bezier(0, 0, 0.2, 1) !important;
+}
+.scale-90 {
+    transform: scale(.9) !important;
+}
+.scale-100 {
+    transform: scale(1) !important;
+}
+.modal-hide {
+    @apply opacity-0;
+    @apply pointer-events-none;
+}
+.cutome_image {
+    @apply w-full h-auto !important;
+}
+.custome_quantity {
+    color: inherit !important;
+    text-decoration: underline !important;
+}
+
+.hide {
+    display: none !important;
+}
+.new_form {
+    margin-top: -75px !important;
+}
+
+.break-new-line {
+    word-wrap: break-word !important;
+}
+
+.truncate-2 {
+    display: -webkit-box !important;
+    line-clamp: 2 !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+}
+
+/*
+** Fix the issue between default select with w-full class and select2
+** that causes horizontal scrolling of the page
+*/
+select.select2-hidden-accessible {
+    @apply w-auto !important;
+}
+
+/** datatable style */
+.dataTable {
+    @apply mb-6 !important;
+}
+.dataTable tbody tr td {
+    @apply px-4 py-2 !important;
+    @apply border border-solid border-t-0 border-r-0 border-l-0 border-gray-200 !important;
+}
+.datatable_wrapper {
+    margin-top: 15px !important;
+}
+.dataTables_wrapper .dataTables_length select {
+    min-width: 80px !important;
+    @apply cursor-pointer h-10 mt-1 mb-3 mx-1 !important;
+    @apply rounded-md shadow-sm border border-solid border-gray-300 !important;
+    @apply focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 !important;
+}
+.dataTables_wrapper .dataTables_filter input {
+    @apply h-10 mt-1 mb-3 ml-2 mr-1 px-2 !important;
+    @apply rounded-md shadow-sm border border-solid border-gray-300 !important;
+    @apply outline-none focus:outline-none focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 !important;
+}
+.dataTable thead tr th {
+    @apply bg-blue-500 text-white !important;
+    @apply border border-t-0 border-r-0 border-l-0 border-solid border-blue-800 !important;
+    @apply py-4 !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    @apply rounded-md;
+    @apply bg-none bg-blue-500 text-white !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover {
+    @apply text-white !important;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    @apply border-blue-500 !important;
+}
+
+div.dataTables_wrapper div.dataTables_processing {
+    @apply z-30 -mt-10 ml-0 pt-20 text-blue-500;
+    background: rgba(255, 255, 255, .7);
+    width: 100%;
+    height: 85%;
+    top: 15%;
+    left: 0;
+}
+
+/** end of datatable style */
+
+/* action button for table */
+.btn-action--red {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-red-500 border border-transparent rounded-md text-sm text-white hover:text-white uppercase !important;
+    @apply hover:bg-red-600 focus:bg-red-600 outline-none focus:outline-none focus:border-red-600 !important;
+    @apply focus:ring ring-red-300 disabled:opacity-50 disabled:hover:bg-red-500 disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--red-outline {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-transparent border border-solid border-red-500 rounded-md text-sm text-red-500 hover:text-white focus:text-white uppercase !important;
+    @apply hover:bg-red-600 focus:bg-red-600 outline-none focus:outline-none focus:border-red-600 !important;
+    @apply focus:ring ring-red-300 disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--green {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-green-500 border border-transparent rounded-md text-sm text-white hover:text-white uppercase !important;
+    @apply hover:bg-green-600 focus:bg-green-600 outline-none focus:outline-none focus:border-green-600 !important;
+    @apply focus:ring ring-green-300 disabled:opacity-50 disabled:hover:bg-green-500 disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--green-outline {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-transparent border border-solid border-green-500 rounded-md text-sm text-green-500 hover:text-white focus:text-white uppercase !important;
+    @apply hover:bg-green-600 focus:bg-green-600 outline-none focus:outline-none focus:border-green-600 !important;
+    @apply focus:ring ring-green-300 disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--blue {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-blue-500 border border-transparent rounded-md text-sm text-white hover:text-white uppercase !important;
+    @apply hover:bg-blue-600 focus:bg-blue-600 outline-none focus:outline-none focus:border-blue-600 !important;
+    @apply focus:ring ring-blue-300 disabled:opacity-50 disabled:hover:bg-blue-500 disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--blue-outline {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-transparent border border-solid border-blue-500 rounded-md text-sm text-blue-500 hover:text-white focus:text-white uppercase !important;
+    @apply hover:bg-blue-600 focus:bg-blue-600 outline-none focus:outline-none focus:border-blue-600 !important;
+    @apply focus:ring ring-blue-300 disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--yellow {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-yellow-500 border border-transparent rounded-md text-sm text-white hover:text-white uppercase !important;
+    @apply hover:bg-yellow-600 focus:bg-yellow-600 outline-none focus:outline-none focus:border-yellow-600 !important;
+    @apply focus:ring ring-yellow-300 disabled:opacity-50 disabled:bg-yellow-500 disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--yellow-outline {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-transparent border border-solid border-yellow-500 rounded-md text-sm text-yellow-500 hover:text-white focus:text-white uppercase !important;
+    @apply hover:bg-yellow-500 focus:bg-yellow-500 outline-none focus:outline-none focus:border-yellow-500 !important;
+    @apply focus:ring ring-yellow-300 disabled:opacity-50 disabled:hover:bg-transparent disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+.btn-action--gray {
+    @apply h-8;
+    min-width: 32px !important;
+    @apply inline-flex items-center justify-center px-2 py-1 mb-1 !important;
+    @apply bg-gray-500 border border-transparent rounded-md text-sm text-white hover:text-white uppercase !important;
+    @apply hover:bg-gray-600 focus:bg-gray-600 outline-none focus:outline-none focus:border-gray-600 !important;
+    @apply focus:ring ring-gray-300 disabled:opacity-50 disabled:hover:bg-gray-500 disabled:hover:cursor-not-allowed transition ease-in-out duration-150 !important;
+    @apply whitespace-nowrap
+}
+
+/*
+* badge status
+*/
+.badge-status--red {
+    @apply whitespace-nowrap px-2 rounded-full bg-red-200 text-red-600 text-xs
+}
+.badge-status--green {
+    @apply whitespace-nowrap px-2 rounded-full bg-green-200 text-green-600 text-xs
+}
+.badge-status--blue {
+    @apply whitespace-nowrap px-2 rounded-full bg-blue-200 text-blue-600 text-xs
+}
+.badge-status--yellow {
+    @apply whitespace-nowrap px-2 rounded-full bg-yellow-200 text-yellow-600 text-xs
+}
+.badge-status--gray {
+    @apply whitespace-nowrap px-2 rounded-full bg-gray-200 text-gray-600 text-xs
+}
+
+
+/* select2 styles */
+.select2-container .select2-selection--single,
+.select2-container .select2-selection--multiple {
+    @apply w-full h-10 mt-1 !important;
+}
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--multiple,
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    @apply rounded-md shadow-sm !important;
+    @apply border border-solid border-gray-300 !important;
+    @apply focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    @apply leading-10 text-gray-900 text-sm !important;
+}
+.select2-container .select2-selection--single .select2-selection__rendered {
+    @apply pl-3 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    @apply h-10 w-9 top-1 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__clear {
+    @apply h-10 mr-8 !important;
+    @apply border-0 outline-none focus:outline-none !important;
+    @apply bg-transparent !important;
+}
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    @apply px-3 py-1 h-10 !important;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    @apply border-indigo-300 ring ring-indigo-200 ring-opacity-50 !important;
+}
+.select2-container .select2-selection--multiple .select2-selection__rendered {
+    @apply px-3 !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-color: #888 transparent transparent transparent !important;
+    border-style: solid !important;
+    border-width: 5px 4px 0 4px !important;
+}
+.select2-dropdown {
+    @apply shadow-lg !important;
+}
+.select2-results__option {
+    @apply px-3 py-2 !important;
+}
+
+/* twitter typeahead.js styles */
+.twitter-typeahead {
+    @apply block w-full !important;
+}
+.twitter-typeahead .tt-menu {
+    @apply bg-white shadow-md !important;
+    @apply border border-solid border-gray-200 rounded-md !important;
+    @apply w-full mt-1 py-1 !important;
+}
+.twitter-typeahead .tt-menu .tt-dataset {
+    @apply overflow-y-auto;
+}
+.twitter-typeahead .tt-suggestion {
+    @apply px-4 py-2 !important;
+    @apply text-sm !important;
+}
+.twitter-typeahead .tt-suggestion:hover {
+    @apply cursor-pointer bg-gray-200 !important;
+}
+.twitter-typeahead .tt-suggestion:hover,
+.twitter-typeahead .tt-suggestion.tt-cursor {
+    @apply cursor-pointer bg-gray-200 !important;
+}
+
+/*
+-- in/out qrcode styles
+*/
+#qrcode-reader video {
+    @apply w-full !important;
+}
+
+#qrcode-reader div:first-child {
+    @apply h-auto !important;
+    @apply flex flex-col justify-center !important;
+}
+#qrcode-reader div:first-child span:first-child {
+    @apply hidden !important;
+}
+
+#qrcode-reader #qrcode-reader__status_span {
+    @apply block clear-right text-center !important;
+}
+#qrcode-reader #qrcode-reader__header_message {
+    @apply relative top-1 text-center pb-1 text-blue-600 !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section {
+    @apply flex flex-col !important;
+    @apply pb-0 !important;
+}
+#qrcode-reader #qrcode-reader__dashboard_section,
+#qrcode-reader__dashboard_section div:first-child {
+    @apply h-auto !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section div:last-child {
+    @apply hidden !important;
+}
+
+#qrcode-reader #qrcode-reader__scan_region {
+    @apply flex items-center justify-center !important;
+    @apply mt-[.10rem] !important;
+}
+#qrcode-reader__dashboard_section_csr button {
+    @apply relative -top-2 !important;
+    @apply my-2 px-3 py-2 !important;
+    @apply border border-solid border-gray-300 rounded-md !important;
+    @apply outline-none focus:outline-none !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section_csr span:first-child {
+    @apply block !important;
+    @apply mr-0 !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section_csr span:first-child select {
+    @apply relative -top-3 !important;
+    @apply cursor-pointer h-10 !important;
+    @apply rounded-md shadow-sm border border-solid border-gray-300 !important;
+    @apply focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section_csr div:last-child {
+    @apply block !important;
+}
+
+#qrcode-reader #qrcode-reader__dashboard_section_csr span:first-child {
+    @apply text-white !important;
+}
+#qrcode-reader #qrcode-reader__dashboard_section_csr span:first-child select {
+    @apply text-black !important;
+}
+
+/* --------- end of qrcode-scanner style */
+
+/** --- order purchase page */
+.order-purchase__filter,
+.card-filter-button {
+    @apply block px-4 py-2 bg-white text-center outline-none focus:outline-none !important;
+    @apply rounded-md border border-solid border-gray-300 !important;
+    @apply truncate !important;
+}
+.order-purchase__filter .order-purchase__filter-label,
+.card-filter-button .card-filter-button--label {
+    @apply font-bold text-gray-500 !important;
+}
+
+.order-purchase__filter:hover,
+.order-purchase__filter.active,
+.card-filter-button:hover,
+.card-filter-button.active {
+    @apply bg-yellow-500 border-yellow-600 !important;
+}
+.order-purchase__filter:hover .order-purchase__filter-label,
+.order-purchase__filter.active .order-purchase__filter-label,
+.card-filter-button:hover .card-filter-button--label,
+.card-filter-button.active .card-filter-button--label {
+    @apply text-gray-50 !important;
+}
+.order-purchase__filter:hover .order-purchase__filter-total,
+.order-purchase__filter.active .order-purchase__filter-total,
+.card-filter-button:hover .card-filter-button--total,
+.card-filter-button.active .card-filter-button--total {
+    @apply text-white !important;
+}
+
+.swal2-popup.swal2-toast .swal2-title,
+.swal2-popup.swal2-toast .swal2-html-container {
+    @apply my-2 !important;
+}
+
+.nav-link {
+    @apply text-gray-900;
+}
+.nav-link.active {
+    @apply text-blue-500;
+}
+
+input[type="radio"].radio-as-button {
+    @apply opacity-0 fixed w-0;
+}
+
+input[type="radio"].radio-as-button + label {
+    @apply px-4 py-2 rounded-lg border border-solid border-blue-700 text-blue-500 cursor-pointer;
+}
+
+input[type="radio"].radio-as-button:checked + label {
+    @apply bg-blue-500 text-white;
+}

@@ -1,0 +1,38 @@
+#total_amount_due{
+	
+	border: 2px solid #856404;
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+.total_due_wrapper{
+	margin: 0 auto;
+	width: 100%;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+.mt_4_a{
+	padding-top: 28px !important;
+	margin-top: 28px !important;
+}
+
+.font_weight_b{
+	font-weight: bold;
+}
+
+#bank_details_information{
+	border: 1px solid;
+	border-radius: 5px;
+	padding: 15px;
+	font-size: 17px;
+}
+
+#previewImg{
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 3px;
+}

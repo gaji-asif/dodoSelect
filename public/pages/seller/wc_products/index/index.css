@@ -1,0 +1,32 @@
+td.variable {
+    background: url({{asset('img/details_open.png')}}) no-repeat center center;
+    cursor: pointer;
+}
+
+tr.shown td.variable {
+    background: url({{asset('img/details_close.png')}})  no-repeat center center;
+}
+
+.child_table td {
+    background: #eeeeee;
+}
+
+#dt-top-toolbar {
+    float: left;
+}
+
+@media (min-width: 640px) {
+    .dataTables_wrapper .dataTables_info {
+        clear: none;
+    }
+
+    .dataTables_wrapper .dataTables_info {
+        float: right;
+    }
+
+    .dataTables_wrapper .dataTables_paginate {
+        clear: both;
+        float: none;
+        text-align: center !important;
+    }
+}

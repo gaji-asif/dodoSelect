@@ -1,0 +1,929 @@
+province_code,district_code,district_name_en,district_name_th
+TH47,TH4711,Akat Amnuai,อากาศอำนวย
+TH75,TH7503,Amphawa,อัมพวา
+TH81,TH8105,Ao Luek,อ่าวลึก
+TH27,TH2706,Aranyaprathet,อรัญประเทศ
+TH45,TH4514,At Samat,อาจสามารถ
+TH96,TH9603,Bacho,บาเจาะ
+TH36,TH3607,Bamnet Narong,บำเหน็จณรงค์
+TH20,TH2002,Ban Bueng,บ้านบึง
+TH21,TH2102,Ban Chang,บ้านฉาง
+TH31,TH3121,Ban Dan,บ้านด่าน
+TH64,TH6402,Ban Dan Lan Hoi,บ้านด่านลานหอย
+TH41,TH4111,Ban Dung,บ้านดุง
+TH40,TH4002,Ban Fang,บ้านฝาง
+TH40,TH4024,Ban Haet,บ้านแฮด
+TH51,TH5103,Ban Hong,บ้านโฮ่ง
+TH70,TH7010,Ban Kha,บ้านคา
+TH21,TH2105,Ban Khai,บ้านค่าย
+TH53,TH5306,Ban Khok,บ้านโคก
+TH36,TH3602,Ban Khwao,บ้านเขว้า
+TH31,TH3108,Ban Kruat,บ้านกรวด
+TH76,TH7607,Ban Laem,บ้านแหลม
+TH76,TH7606,Ban Lat,บ้านลาด
+TH55,TH5503,Ban Luang,บ้านหลวง
+TH30,TH3005,Ban Lueam,บ้านเหลื่อม
+TH31,TH3119,Ban Mai Chaiyaphot,บ้านใหม่ไชยพจน์
+TH16,TH1606,Ban Mi,บ้านหมี่
+TH19,TH1906,Ban Mo,บ้านหมอ
+TH47,TH4710,Ban Muang,บ้านม่วง
+TH26,TH2603,Ban Na,บ้านนา
+TH84,TH8413,Ban Na Doem,บ้านนาเดิม
+TH84,TH8412,Ban Na San,บ้านนาสาร
+TH48,TH4804,Ban Phaeng,บ้านแพง
+TH74,TH7403,Ban Phaeo,บ้านแพ้ว
+TH40,TH4010,Ban Phai,บ้านไผ่
+TH24,TH2405,Ban Pho,บ้านโพธิ์
+TH14,TH1416,Ban Phraek,บ้านแพรก
+TH41,TH4117,Ban Phue,บ้านผือ
+TH70,TH7005,Ban Pong,บ้านโป่ง
+TH61,TH6106,Ban Rai,บ้านไร่
+TH25,TH2506,Ban Sang,บ้านสร้าง
+TH84,TH8409,Ban Ta Khun,บ้านตาขุน
+TH63,TH6302,Ban Tak,บ้านตาก
+TH36,TH3611,Ban Thaen,บ้านแท่น
+TH51,TH5107,Ban Thi,บ้านธิ
+TH14,TH1405,Bang Ban,บางบาล
+TH11,TH1102,Bang Bo,บางบ่อ
+TH10,TH1050,Bang Bon,บางบอน
+TH12,TH1204,Bang Bua Thong,บางบัวทอง
+TH93,TH9309,Bang Kaeo,บางแก้ว
+TH10,TH1006,Bang Kapi,บางกะปิ
+TH10,TH1040,Bang Khae,บางแค
+TH80,TH8017,Bang Khan,บางขัน
+TH10,TH1005,Bang Khen,บางเขน
+TH24,TH2402,Bang Khla,บางคล้า
+TH10,TH1031,Bang Kho Laem,บางคอแหลม
+TH75,TH7502,Bang Khonthi,บางคนที
+TH10,TH1021,Bang Khun Thian,บางขุนเทียน
+TH90,TH9014,Bang Klam,บางกล่ำ
+TH65,TH6505,Bang Krathum,บางกระทุ่ม
+TH12,TH1202,Bang Kruai,บางกรวย
+TH20,TH2004,Bang Lamung,บางละมุง
+TH73,TH7305,Bang Len,บางเลน
+TH66,TH6605,Bang Mun Nak,บางมูลนาก
+TH10,TH1047,Bang Na,บางนา
+TH24,TH2403,Bang Nam Priao,บางน้ำเปรี้ยว
+TH14,TH1406,Bang Pa-In,บางปะอิน
+TH14,TH1407,Bang Pahan,บางปะหัน
+TH24,TH2404,Bang Pakong,บางปะกง
+TH70,TH7006,Bang Phae,บางแพ
+TH10,TH1025,Bang Phlat,บางพลัด
+TH11,TH1103,Bang Phli,บางพลี
+TH72,TH7204,Bang Pla Ma,บางปลาม้า
+TH17,TH1702,Bang Rachan,บางระจัน
+TH10,TH1004,Bang Rak,บางรัก
+TH65,TH6504,Bang Rakam,บางระกำ
+TH14,TH1404,Bang Sai,บางไทร
+TH14,TH1413,Bang Sai,บางซ้าย
+TH11,TH1106,Bang Sao Thong,บางเสาธง
+TH77,TH7704,Bang Saphan,บางสะพาน
+TH77,TH7705,Bang Saphan Noi,บางสะพานน้อย
+TH10,TH1029,Bang Sue,บางซื่อ
+TH12,TH1203,Bang Yai,บางใหญ่
+TH10,TH1020,Bangkok Noi,บางกอกน้อย
+TH10,TH1016,Bangkok Yai,บางกอกใหญ่
+TH95,TH9503,Bannang Sata,บันนังสตา
+TH60,TH6005,Banphot Phisai,บรรพตพิสัย
+TH33,TH3319,Benchalak,เบญจลักษ์
+TH95,TH9502,Betong,เบตง
+TH55,TH5512,Bo Kluea,บ่อเกลือ
+TH71,TH7103,Bo Phloi,บ่อพลอย
+TH23,TH2304,Bo Rai,บ่อไร่
+TH20,TH2010,Bo Thong,บ่อทอง
+TH44,TH4406,Borabue,บรบือ
+TH30,TH3030,Bua Lai,บัวลาย
+TH30,TH3012,Bua Yai,บัวใหญ่
+TH32,TH3213,Buachet,บัวเชด
+TH33,TH3311,Bueng Bun,บึงบูรพ์
+TH38,TH3806,Bueng Khong Long,บึงโขงหลง
+TH10,TH1027,Bueng Kum,บึงกุ่ม
+TH66,TH6610,Bueng Na Rang,บึงนาราง
+TH67,TH6708,Bueng Sam Phan,บึงสามพัน
+TH62,TH6210,Bueng Samakkhi,บึงสามัคคี
+TH38,TH3808,Bung Khla,บุ่งคล้า
+TH34,TH3410,Buntharik,บุณฑริก
+TH76,TH7604,Cha-Am,ชะอำ
+TH80,TH8007,Cha-Uat,ชะอวด
+TH52,TH5206,Chae Hom,แจ้ห่ม
+TH16,TH1604,Chai Badan,ชัยบาดาล
+TH84,TH8418,Chai Buri,ชัยบุรี
+TH50,TH5021,Chai Prakan,ไชยปราการ
+TH41,TH4108,Chai Wan,ไชยวาน
+TH84,TH8406,Chaiya,ไชยา
+TH15,TH1502,Chaiyo,ไชโย
+TH30,TH3006,Chakkarat,จักราช
+TH19,TH1913,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+TH30,TH3032,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+TH31,TH3123,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+TH55,TH5515,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+TH80,TH8023,Chaloem Phra Kiat,เฉลิมพระเกียรติ
+TH31,TH3118,Chamni,ชำนิ
+TH90,TH9003,Chana,จะนะ
+TH96,TH9612,Chanae,จะแนะ
+TH80,TH8022,Chang Klang,ช้างกลาง
+TH45,TH4517,Changhan,จังหาร
+TH37,TH3702,Chanuman,ชานุมาน
+TH47,TH4716,Charoen Sin,เจริญศิลป์
+TH65,TH6503,Chat Trakan,ชาติตระการ
+TH36,TH3606,Chatturat,จัตุรัส
+TH10,TH1030,Chatuchak,จตุจักร
+TH45,TH4504,Chaturaphak Phiman,จตุรพักตรพิมาน
+TH80,TH8004,Chawang,ฉวาง
+TH80,TH8006,Chian Yai,เชียรใหญ่
+TH50,TH5004,Chiang Dao,เชียงดาว
+TH56,TH5603,Chiang Kham,เชียงคำ
+TH42,TH4203,Chiang Khan,เชียงคาน
+TH57,TH5703,Chiang Khong,เชียงของ
+TH45,TH4518,Chiang Khwan,เชียงขวัญ
+TH55,TH5509,Chiang Klang,เชียงกลาง
+TH56,TH5604,Chiang Muan,เชียงม่วน
+TH57,TH5708,Chiang Saen,เชียงแสน
+TH44,TH4405,Chiang Yuen,เชียงยืน
+TH96,TH9613,Cho-Airong,เจาะไอร้อง
+TH30,TH3007,Chok Chai,โชคชัย
+TH70,TH7002,Chom Bueng,จอมบึง
+TH32,TH3204,Chom Phra,จอมพระ
+TH10,TH1035,Chom Thong,จอมทอง
+TH50,TH5002,Chom Thong,จอมทอง
+TH67,TH6702,Chon Daen,ชนแดน
+TH40,TH4018,Chonnabot,ชนบท
+TH44,TH4413,Chuen Chom,ชื่นชม
+TH80,TH8019,Chulabhorn,จุฬาภรณ์
+TH40,TH4005,Chum Phae,ชุมแพ
+TH30,TH3017,Chum Phuang,ชุมพวง
+TH60,TH6003,Chum Saeng,ชุมแสง
+TH60,TH6015,Chum Ta Bong,ชุมตาบง
+TH32,TH3202,Chumphon Buri,ชุมพลบุรี
+TH56,TH5602,Chun,จุน
+TH70,TH7004,Damnoen Saduak,ดำเนินสะดวก
+TH72,TH7203,Dan Chang,ด่านช้าง
+TH30,TH3008,Dan Khun Thot,ด่านขุนทด
+TH71,TH7111,Dan Makham Tia,ด่านมะขามเตี้ย
+TH42,TH4205,Dan Sai,ด่านซ้าย
+TH54,TH5405,Den Chai,เด่นชัย
+TH34,TH3407,Det Udom,เดชอุดม
+TH10,TH1026,Din Daeng,ดินแดง
+TH72,TH7202,Doem Bang Nang Buat,เดิมบางนางบวช
+TH50,TH5024,Doi Lo,ดอยหล่อ
+TH57,TH5718,Doi Luang,ดอยหลวง
+TH50,TH5005,Doi Saket,ดอยสะเก็ด
+TH50,TH5017,Doi Tao,ดอยเต่า
+TH56,TH5605,Dok Khamtai,ดอกคำใต้
+TH46,TH4617,Don Chan,ดอนจาน
+TH72,TH7206,Don Chedi,ดอนเจดีย์
+TH34,TH3424,Don Mot Daeng,ดอนมดแดง
+TH10,TH1036,Don Mueang,ดอนเมือง
+TH19,TH1907,Don Phut,ดอนพุด
+TH84,TH8403,Don Sak,ดอนสัก
+TH49,TH4903,Don Tan,ดอนตาล
+TH73,TH7304,Don Tum,ดอนตูม
+TH66,TH6611,Dong Charoen,ดงเจริญ
+TH49,TH4904,Dong Luang,ดงหลวง
+TH10,TH1002,Dusit,ดุสิต
+TH42,TH4213,Erawan,เอราวัณ
+TH53,TH5305,Fak Tha,ฟากท่า
+TH50,TH5009,Fang,ฝาง
+TH43,TH4315,Fao Rai,เฝ้าไร่
+TH50,TH5025,Galyani Vadhana,กัลยาณิวัฒนา
+TH52,TH5212,Hang Chat,ห้างฉัตร
+TH50,TH5015,Hang Dong,หางดง
+TH18,TH1806,Hankha,หันคา
+TH92,TH9210,Hat Samran,หาดสำราญ
+TH90,TH9011,Hat Yai,หาดใหญ่
+TH50,TH5016,Hot,ฮอด
+TH77,TH7707,Hua Hin,หัวหิน
+TH80,TH8016,Hua Sai,หัวไทร
+TH37,TH3706,Hua Taphan,หัวตะพาน
+TH61,TH6108,Huai Khot,ห้วยคต
+TH10,TH1017,Huai Khwang,ห้วยขวาง
+TH71,TH7113,Huai Krachao,ห้วยกระเจา
+TH46,TH4608,Huai Mek,ห้วยเม็ก
+TH46,TH4614,Huai Phueng,ห้วยผึ้ง
+TH31,TH3116,Huai Rat,ห้วยราช
+TH30,TH3016,Huai Thalaeng,ห้วยแถลง
+TH33,TH3312,Huai Thap Than,ห้วยทับทัน
+TH92,TH9206,Huai Yot,ห้วยยอด
+TH17,TH1706,In Buri,อินทร์บุรี
+TH95,TH9507,Kabang,กาบัง
+TH25,TH2502,Kabin Buri,กบินทร์บุรี
+TH44,TH4402,Kae Dam,แกดำ
+TH22,TH2208,Kaeng Hang Maeo,แก่งหางแมว
+TH19,TH1902,Kaeng Khoi,แก่งคอย
+TH36,TH3612,Kaeng Khro,แก้งคร้อ
+TH76,TH7608,Kaeng Krachan,แก่งกระจาน
+TH30,TH3023,Kaeng Sanam Nang,แก้งสนามนาง
+TH46,TH4603,Kamalasai,กมลาไสย
+TH73,TH7302,Kamphaeng Saen,กำแพงแสน
+TH84,TH8402,Kanchanadit,กาญจนดิษฐ์
+TH92,TH9202,Kantang,กันตัง
+TH33,TH3304,Kantharalak,กันทรลักษ์
+TH33,TH3303,Kanthararom,กันทรารมย์
+TH44,TH4404,Kantharawichai,กันทรวิชัย
+TH60,TH6006,Kao Liao,เก้าเลี้ยว
+TH32,TH3206,Kap Choeng,กาบเชิง
+TH94,TH9411,Kapho,กะพ้อ
+TH85,TH8503,Kapoe,กะเปอร์
+TH82,TH8203,Kapong,กะปง
+TH36,TH3604,Kaset Sombun,เกษตรสมบูรณ์
+TH45,TH4502,Kaset Wisai,เกษตรวิสัย
+TH83,TH8302,Kathu,กะทู้
+TH31,TH3122,Khaen Dong,แคนดง
+TH17,TH1703,Khai Bang Rachan,ค่ายบางระจัน
+TH35,TH3504,Kham Khuean Kaeo,คำเขื่อนแก้ว
+TH46,TH4610,Kham Muang,คำม่วง
+TH30,TH3011,Kham Sakaesaeng,ขามสะแกแสง
+TH47,TH4709,Kham Ta Kla,คำตากล้า
+TH30,TH3019,Kham Thale So,ขามทะเลสอ
+TH49,TH4905,Khamcha-I,คำชะอี
+TH10,TH1043,Khan Na Yao,คันนายาว
+TH80,TH8015,Khanom,ขนอม
+TH62,TH6204,Khanu Woralaksaburi,ขาณุวรลักษบุรี
+TH93,TH9303,Khao Chaison,เขาชัยสน
+TH27,TH2707,Khao Chakan,เขาฉกรรจ์
+TH21,TH2107,Khao Chamao,เขาชะเมา
+TH22,TH2210,Khao Khitchakut,เขาคิชฌกูฏ
+TH67,TH6711,Khao Kho,เขาค้อ
+TH81,TH8102,Khao Phanom,เขาพนม
+TH23,TH2303,Khao Saming,เขาสมิง
+TH40,TH4019,Khao Suan Kwang,เขาสวนกวาง
+TH46,TH4606,Khao Wong,เขาวง
+TH76,TH7602,Khao Yoi,เขาย้อย
+TH34,TH3405,Khemarat,เขมราฐ
+TH84,TH8414,Khian Sa,เคียนซา
+TH64,TH6403,Khiri Mat,คีรีมาศ
+TH84,TH8408,Khiri Rat Nikhom,คีรีรัฐนิคม
+TH27,TH2702,Khlong Hat,คลองหาด
+TH90,TH9016,Khlong Hoi Khong,คลองหอยโข่ง
+TH62,TH6205,Khlong Khlung,คลองขลุง
+TH24,TH2411,Khlong Khuean,คลองเขื่อน
+TH62,TH6203,Khlong Lan,คลองลาน
+TH13,TH1302,Khlong Luang,คลองหลวง
+TH10,TH1046,Khlong Sam Wa,คลองสามวา
+TH10,TH1018,Khlong San,คลองสาน
+TH81,TH8104,Khlong Thom,คลองท่อม
+TH10,TH1033,Khlong Toei,คลองเตย
+TH23,TH2302,Khlong Yai,คลองใหญ่
+TH22,TH2202,Khlung,ขลุง
+TH35,TH3507,Kho Wang,ค้อวัง
+TH16,TH1609,Khok Charoen,โคกเจริญ
+TH94,TH9402,Khok Pho,โคกโพธิ์
+TH40,TH4022,Khok Pho Chai,โคกโพธิ์ไชย
+TH16,TH1603,Khok Samrong,โคกสำโรง
+TH47,TH4715,Khok Si Suphan,โคกศรีสุพรรณ
+TH27,TH2708,Khok Sung,โคกสูง
+TH30,TH3002,Khon Buri,ครบุรี
+TH36,TH3613,Khon San,คอนสาร
+TH36,TH3603,Khon Sawan,คอนสวรรค์
+TH30,TH3004,Khong,คง
+TH46,TH4618,Khong Chai,ฆ้องชัย
+TH34,TH3403,Khong Chiam,โขงเจียม
+TH31,TH3102,Khu Mueang,คูเมือง
+TH91,TH9102,Khuan Don,ควนโดน
+TH91,TH9103,Khuan Kalong,ควนกาหลง
+TH93,TH9305,Khuan Khanun,ควนขนุน
+TH90,TH9013,Khuan Niang,ควนเนียง
+TH34,TH3404,Khueang Nai,เขื่องใน
+TH33,TH3305,Khukhan,ขุขันธ์
+TH33,TH3308,Khun Han,ขุนหาญ
+TH57,TH5714,Khun Tan,ขุนตาล
+TH58,TH5802,Khun Yuam,ขุนยวม
+TH82,TH8206,Khura Buri,คุระบุรี
+TH32,TH3216,Khwao Sin Rin,เขวาสินรินทร์
+TH21,TH2103,Klaeng,แกลง
+TH20,TH2011,Ko Chan,เกาะจันทร์
+TH23,TH2307,Ko Chang,เกาะช้าง
+TH52,TH5203,Ko Kha,เกาะคา
+TH23,TH2306,Ko Kut,เกาะกูด
+TH81,TH8103,Ko Lanta,เกาะลันตา
+TH84,TH8405,Ko Pha-Ngan,เกาะพะงัน
+TH84,TH8404,Ko Samui,เกาะสมุย
+TH20,TH2008,Ko Si Chang,เกาะสีชัง
+TH82,TH8202,Ko Yao,เกาะยาว
+TH64,TH6404,Kong Krailat,กงไกรลาศ
+TH93,TH9302,Kong Ra,กงหรา
+TH62,TH6211,Kosamphi Nakhon,โกสัมพีนคร
+TH44,TH4403,Kosum Phisai,โกสุมพิสัย
+TH85,TH8504,Kra Buri,กระบุรี
+TH40,TH4009,Kranuan,กระนวน
+TH90,TH9008,Krasae Sin,กระแสสินธุ์
+TH31,TH3103,Krasang,กระสัง
+TH74,TH7402,Krathum Baen,กระทุ่มแบน
+TH60,TH6002,Krok Phra,โกรกพระ
+TH95,TH9508,Krong Pinang,กรงปินัง
+TH41,TH4124,Ku Kaeo,กู่แก้ว
+TH46,TH4605,Kuchinarai,กุฉินารายณ์
+TH77,TH7702,Kui Buri,กุยบุรี
+TH41,TH4104,Kumphawapi,กุมภวาปี
+TH47,TH4702,Kusuman,กุสุมาลย์
+TH47,TH4703,Kut Bak,กุดบาก
+TH41,TH4102,Kut Chap,กุดจับ
+TH35,TH3503,Kut Chum,กุดชุม
+TH34,TH3412,Kut Khaopun,กุดข้าวปุ้น
+TH44,TH4412,Kut Rang,กุดรัง
+TH91,TH9105,La-Ngu,ละงู
+TH85,TH8502,La-Un,ละอุ่น
+TH23,TH2305,Laem Ngop,แหลมงอบ
+TH22,TH2206,Laem Sing,แหลมสิงห์
+TH31,TH3106,Lahan Sai,ละหานทราย
+TH10,TH1041,Lak Si,หลักสี่
+TH13,TH1306,Lam Luk Ka,ลำลูกกา
+TH31,TH3110,Lam Plai Mat,ลำปลายมาศ
+TH16,TH1610,Lam Sonthi,ลำสนธิ
+TH30,TH3029,Lam Thamenchai,ลำทะเมนชัย
+TH81,TH8107,Lam Thap,ลำทับ
+TH86,TH8605,Lamae,ละแม
+TH32,TH3211,Lamduan,ลำดวน
+TH62,TH6207,Lan Krabue,ลานกระบือ
+TH61,TH6107,Lan Sak,ลานสัก
+TH80,TH8003,Lan Saka,ลานสกา
+TH86,TH8604,Lang Suan,หลังสวน
+TH71,TH7110,Lao Khwan,เลาขวัญ
+TH34,TH3431,Lao Suea Kok,เหล่าเสือโก้ก
+TH53,TH5308,Laplae,ลับแล
+TH14,TH1410,Lat Bua Luang,ลาดบัวหลวง
+TH10,TH1011,Lat Krabang,ลาดกระบัง
+TH13,TH1305,Lat Lum Kaeo,ลาดหลุมแก้ว
+TH10,TH1038,Lat Phrao,ลาดพร้าว
+TH60,TH6011,Lat Yao,ลาดยาว
+TH51,TH5104,Li,ลี้
+TH35,TH3508,Loeng Nok Tha,เลิงนกทา
+TH67,TH6704,Lom Kao,หล่มเก่า
+TH67,TH6703,Lom Sak,หล่มสัก
+TH54,TH5403,Long,ลอง
+TH37,TH3707,Lue Amnat,ลืออำนาจ
+TH50,TH5010,Mae Ai,แม่อาย
+TH50,TH5003,Mae Chaem,แม่แจ่ม
+TH56,TH5607,Mae Chai,แม่ใจ
+TH57,TH5707,Mae Chan,แม่จัน
+TH55,TH5502,Mae Charim,แม่จริม
+TH57,TH5715,Mae Fa Luang,แม่ฟ้าหลวง
+TH58,TH5805,Mae La Noi,แม่ลาน้อย
+TH94,TH9412,Mae Lan,แม่ลาน
+TH57,TH5716,Mae Lao,แม่ลาว
+TH52,TH5202,Mae Mo,แม่เมาะ
+TH50,TH5023,Mae On,แม่ออน
+TH52,TH5209,Mae Phrik,แม่พริก
+TH60,TH6014,Mae Poen,แม่เปิน
+TH63,TH6304,Mae Ramat,แม่ระมาด
+TH50,TH5007,Mae Rim,แม่ริม
+TH57,TH5709,Mae Sai,แม่สาย
+TH58,TH5804,Mae Sariang,แม่สะเรียง
+TH63,TH6306,Mae Sot,แม่สอด
+TH57,TH5710,Mae Suai,แม่สรวย
+TH50,TH5006,Mae Taeng,แม่แตง
+TH52,TH5210,Mae Tha,แม่ทะ
+TH51,TH5102,Mae Tha,แม่ทา
+TH50,TH5022,Mae Wang,แม่วาง
+TH60,TH6013,Mae Wong,แม่วงก์
+TH35,TH3506,Maha Chana Chai,มหาชนะชัย
+TH14,TH1415,Maha Rat,มหาราช
+TH94,TH9408,Mai Kaen,ไม้แก่น
+TH22,TH2205,Makham,มะขาม
+TH91,TH9107,Manang,มะนัง
+TH40,TH4017,Mancha Khiri,มัญจาคีรี
+TH18,TH1802,Manorom,มโนรมย์
+TH94,TH9405,Mayo,มายอ
+TH10,TH1010,Min Buri,มีนบุรี
+TH45,TH4515,Moei Wadi,เมยวดี
+TH19,TH1911,Muak Lek,มวกเหล็ก
+TH34,TH3414,Muang Sam Sip,ม่วงสามสิบ
+TH37,TH3701,Mueang Amnat Charoen,เมืองอำนาจเจริญ
+TH15,TH1501,Mueang Ang Thong,เมืองอ่างทอง
+TH38,TH3801,Mueang Bueng Kan,เมืองบึงกาฬ
+TH31,TH3101,Mueang Buri Ram,เมืองบุรีรัมย์
+TH24,TH2401,Mueang Chachoengsao,เมืองฉะเชิงเทรา
+TH18,TH1801,Mueang Chai Nat,เมืองชัยนาท
+TH36,TH3601,Mueang Chaiyaphum,เมืองชัยภูมิ
+TH33,TH3318,Mueang Chan,เมืองจันทร์
+TH22,TH2201,Mueang Chanthaburi,เมืองจันทบุรี
+TH50,TH5001,Mueang Chiang Mai,เมืองเชียงใหม่
+TH57,TH5701,Mueang Chiang Rai,เมืองเชียงราย
+TH20,TH2001,Mueang Chon Buri,เมืองชลบุรี
+TH86,TH8601,Mueang Chumphon,เมืองชุมพร
+TH46,TH4601,Mueang Kalasin,เมืองกาฬสินธุ์
+TH62,TH6201,Mueang Kamphaeng Phet,เมืองกำแพงเพชร
+TH71,TH7101,Mueang Kanchanaburi,เมืองกาญจนบุรี
+TH40,TH4001,Mueang Khon Kaen,เมืองขอนแก่น
+TH81,TH8101,Mueang Krabi,เมืองกระบี่
+TH52,TH5201,Mueang Lampang,เมืองลำปาง
+TH51,TH5101,Mueang Lamphun,เมืองลำพูน
+TH42,TH4201,Mueang Loei,เมืองเลย
+TH16,TH1601,Mueang Lop Buri,เมืองลพบุรี
+TH58,TH5801,Mueang Mae Hong Son,เมืองแม่ฮ่องสอน
+TH44,TH4401,Mueang Maha Sarakham,เมืองมหาสารคาม
+TH49,TH4901,Mueang Mukdahan,เมืองมุกดาหาร
+TH26,TH2601,Mueang Nakhon Nayok,เมืองนครนายก
+TH73,TH7301,Mueang Nakhon Pathom,เมืองนครปฐม
+TH48,TH4801,Mueang Nakhon Phanom,เมืองนครพนม
+TH30,TH3001,Mueang Nakhon Ratchasima,เมืองนครราชสีมา
+TH60,TH6001,Mueang Nakhon Sawan,เมืองนครสวรรค์
+TH80,TH8001,Mueang Nakhon Si Thammarat,เมืองนครศรีธรรมร
+TH55,TH5501,Mueang Nan,เมืองน่าน
+TH96,TH9601,Mueang Narathiwat,เมืองนราธิวาส
+TH39,TH3901,Mueang Nong Bua Lam Phu,เมืองหนองบัวลำภู
+TH43,TH4301,Mueang Nong Khai,เมืองหนองคาย
+TH12,TH1201,Mueang Nonthaburi,เมืองนนทบุรี
+TH52,TH5213,Mueang Pan,เมืองปาน
+TH13,TH1301,Mueang Pathum Thani,เมืองปทุมธานี
+TH94,TH9401,Mueang Pattani,เมืองปัตตานี
+TH82,TH8201,Mueang Phangnga,เมืองพังงา
+TH93,TH9301,Mueang Phatthalung,เมืองพัทลุง
+TH56,TH5601,Mueang Phayao,เมืองพะเยา
+TH67,TH6701,Mueang Phetchabun,เมืองเพชรบูรณ์
+TH76,TH7601,Mueang Phetchaburi,เมืองเพชรบุรี
+TH66,TH6601,Mueang Phichit,เมืองพิจิตร
+TH65,TH6501,Mueang Phitsanulok,เมืองพิษณุโลก
+TH54,TH5401,Mueang Phrae,เมืองแพร่
+TH83,TH8301,Mueang Phuket,เมืองภูเก็ต
+TH25,TH2501,Mueang Prachin Buri,เมืองปราจีนบุรี
+TH77,TH7701,Mueang Prachuap Khiri Khan,เมืองประจวบคีรีข
+TH85,TH8501,Mueang Ranong,เมืองระนอง
+TH70,TH7001,Mueang Ratchaburi,เมืองราชบุรี
+TH21,TH2101,Mueang Rayong,เมืองระยอง
+TH45,TH4501,Mueang Roi Et,เมืองร้อยเอ็ด
+TH27,TH2701,Mueang Sa Kaeo,เมืองสระแก้ว
+TH47,TH4701,Mueang Sakon Nakhon,เมืองสกลนคร
+TH11,TH1101,Mueang Samut Prakan,เมืองสมุทรปราการ
+TH74,TH7401,Mueang Samut Sakhon,เมืองสมุทรสาคร
+TH75,TH7501,Mueang Samut Songkhram,เมืองสมุทรสงคราม
+TH19,TH1901,Mueang Saraburi,เมืองสระบุรี
+TH91,TH9101,Mueang Satun,เมืองสตูล
+TH33,TH3301,Mueang Si Sa Ket,เมืองศรีสะเกษ
+TH17,TH1701,Mueang Sing Buri,เมืองสิงห์บุรี
+TH90,TH9001,Mueang Songkhla,เมืองสงขลา
+TH45,TH4512,Mueang Suang,เมืองสรวง
+TH64,TH6401,Mueang Sukhothai,เมืองสุโขทัย
+TH72,TH7201,Mueang Suphan Buri,เมืองสุพรรณบุรี
+TH84,TH8401,Mueang Surat Thani,เมืองสุราษฎร์ธาน
+TH32,TH3201,Mueang Surin,เมืองสุรินทร์
+TH63,TH6301,Mueang Tak,เมืองตาก
+TH92,TH9201,Mueang Trang,เมืองตรัง
+TH23,TH2301,Mueang Trat,เมืองตราด
+TH34,TH3401,Mueang Ubon Ratchathani,เมืองอุบลราชธานี
+TH41,TH4101,Mueang Udon Thani,เมืองอุดรธานี
+TH61,TH6101,Mueang Uthai Thani,เมืองอุทัยธานี
+TH53,TH5301,Mueang Uttaradit,เมืองอุตรดิตถ์
+TH95,TH9501,Mueang Yala,เมืองยะลา
+TH30,TH3027,Mueang Yang,เมืองยาง
+TH35,TH3501,Mueang Yasothon,เมืองยโสธร
+TH80,TH8010,Na Bon,นาบอน
+TH34,TH3408,Na Chaluai,นาจะหลวย
+TH44,TH4407,Na Chueak,นาเชือก
+TH25,TH2503,Na Di,นาดี
+TH42,TH4202,Na Duang,นาด้วง
+TH44,TH4410,Na Dun,นาดูน
+TH42,TH4206,Na Haeo,นาแห้ว
+TH48,TH4807,Na Kae,นาแก
+TH46,TH4616,Na Khu,นาคู
+TH39,TH3902,Na Klang,นากลาง
+TH90,TH9012,Na Mom,นาหม่อม
+TH46,TH4602,Na Mon,นามน
+TH55,TH5510,Na Muen,นาหมื่น
+TH55,TH5504,Na Noi,นาน้อย
+TH31,TH3113,Na Pho,นาโพธิ์
+TH34,TH3430,Na Tan,นาตาล
+TH90,TH9004,Na Thawi,นาทวี
+TH48,TH4811,Na Thom,นาทม
+TH48,TH4809,Na Wa,นาหว้า
+TH39,TH3906,Na Wang,นาวัง
+TH22,TH2209,Na Yai Am,นายายอาม
+TH34,TH3429,Na Yia,นาเยีย
+TH92,TH9208,Na Yong,นาโยง
+TH41,TH4122,Na Yung,นายูง
+TH73,TH7303,Nakhon Chai Si,นครชัยศรี
+TH14,TH1403,Nakhon Luang,นครหลวง
+TH65,TH6502,Nakhon Thai,นครไทย
+TH34,TH3433,Nam Khun,น้ำขุ่น
+TH33,TH3315,Nam Kliang,น้ำเกลี้ยง
+TH67,TH6709,Nam Nao,น้ำหนาว
+TH53,TH5304,Nam Pat,น้ำปาด
+TH40,TH4007,Nam Phong,น้ำพอง
+TH41,TH4118,Nam Som,น้ำโสม
+TH34,TH3409,Nam Yuen,น้ำยืน
+TH31,TH3104,Nang Rong,นางรอง
+TH52,TH5205,Ngao,งาว
+TH49,TH4902,Nikhom Kham Soi,นิคมคำสร้อย
+TH47,TH4707,Nikhom Nam Un,นิคมน้ำอูน
+TH21,TH2108,Nikhom Phatthana,นิคมพัฒนา
+TH18,TH1808,Noen Kham,เนินขาม
+TH65,TH6509,Noen Maprang,เนินมะปราง
+TH36,TH3615,Noen Sa-Nga,เนินสง่า
+TH30,TH3024,Non Daeng,โนนแดง
+TH31,TH3120,Non Din Daeng,โนนดินแดง
+TH33,TH3313,Non Khun,โนนคูณ
+TH32,TH3217,Non Narai,โนนนารายณ์
+TH41,TH4105,Non Sa-At,โนนสะอาด
+TH39,TH3903,Non Sang,โนนสัง
+TH40,TH4025,Non Sila,โนนศิลา
+TH30,TH3010,Non Sung,โนนสูง
+TH31,TH3117,Non Suwan,โนนสุวรรณ
+TH30,TH3009,Non Thai,โนนไทย
+TH60,TH6004,Nong Bua,หนองบัว
+TH36,TH3605,Nong Bua Daeng,หนองบัวแดง
+TH36,TH3608,Nong Bua Rawe,หนองบัวระเหว
+TH30,TH3022,Nong Bun Mak,หนองบุญมาก
+TH61,TH6104,Nong Chang,หนองฉาง
+TH94,TH9403,Nong Chik,หนองจิก
+TH10,TH1003,Nong Chok,หนองจอก
+TH19,TH1908,Nong Don,หนองโดน
+TH41,TH4106,Nong Han,หนองหาน
+TH45,TH4519,Nong Hi,หนองฮี
+TH42,TH4214,Nong Hin,หนองหิน
+TH31,TH3114,Nong Hong,หนองหงส์
+TH19,TH1903,Nong Khae,หนองแค
+TH10,TH1023,Nong Khaem,หนองแขม
+TH61,TH6105,Nong Khayang,หนองขาหย่าง
+TH31,TH3105,Nong Ki,หนองกี่
+TH46,TH4612,Nong Kung Si,หนองกุงศรี
+TH18,TH1807,Nong Mamong,หนองมะโมง
+TH16,TH1611,Nong Muang,หนองม่วง
+TH54,TH5408,Nong Muang Khai,หนองม่วงไข่
+TH40,TH4023,Nong Na Kham,หนองนาคำ
+TH67,TH6707,Nong Phai,หนองไผ่
+TH45,TH4509,Nong Phok,หนองพอก
+TH71,TH7112,Nong Prue,หนองปรือ
+TH40,TH4004,Nong Ruea,หนองเรือ
+TH19,TH1905,Nong Saeng,หนองแซง
+TH41,TH4121,Nong Saeng,หนองแสง
+TH40,TH4015,Nong Song Hong,หนองสองห้อง
+TH13,TH1304,Nong Suea,หนองเสือ
+TH49,TH4907,Nong Sung,หนองสูง
+TH41,TH4103,Nong Wua So,หนองวัวซอ
+TH76,TH7603,Nong Ya Plong,หนองหญ้าปล้อง
+TH72,TH7210,Nong Ya Sai,หนองหญ้าไซ
+TH20,TH2003,Nong Yai,หนองใหญ่
+TH80,TH8021,Nopphitam,นบพิตำ
+TH81,TH8108,Nuea Khlong,เหนือคลอง
+TH50,TH5018,Omkoi,อมก๋อย
+TH26,TH2604,Ongkharak,องครักษ์
+TH93,TH9308,Pa Bon,ป่าบอน
+TH57,TH5706,Pa Daet,ป่าแดด
+TH15,TH1503,Pa Mok,ป่าโมก
+TH93,TH9310,Pa Phayom,ป่าพะยอม
+TH51,TH5106,Pa Sang,ป่าซาง
+TH35,TH3505,Pa Tio,ป่าติ้ว
+TH58,TH5803,Pai,ปาย
+TH42,TH4204,Pak Chom,ปากชม
+TH30,TH3021,Pak Chong,ปากช่อง
+TH38,TH3805,Pak Khat,ปากคาด
+TH12,TH1206,Pak Kret,ปากเกร็ด
+TH80,TH8012,Pak Phanang,ปากพนัง
+TH93,TH9306,Pak Phayun,ปากพะยูน
+TH26,TH2602,Pak Phli,ปากพลี
+TH70,TH7008,Pak Tho,ปากท่อ
+TH30,TH3014,Pak Thong Chai,ปักธงชัย
+TH31,TH3112,Pakham,ปะคำ
+TH92,TH9204,Palian,ปะเหลียน
+TH94,TH9404,Panare,ปะนาเระ
+TH58,TH5807,Pang Mapha,ปางมะผ้า
+TH62,TH6209,Pang Sila Thong,ปางศิลาทอง
+TH86,TH8603,Pathio,ปะทิว
+TH45,TH4503,Pathum Rat,ปทุมรัตต์
+TH37,TH3703,Pathum Ratchawongsa,ปทุมราชวงศา
+TH10,TH1007,Pathum Wan,ปทุมวัน
+TH42,TH4212,Pha Khao,ผาขาว
+TH14,TH1409,Phachi,ภาชี
+TH60,TH6009,Phaisali,ไพศาลี
+TH14,TH1408,Phak Hai,ผักไห่
+TH36,TH3614,Phakdi Chumphon,ภักดีชุมพล
+TH57,TH5705,Phan,พาน
+TH20,TH2005,Phan Thong,พานทอง
+TH37,TH3704,Phana,พนา
+TH20,TH2006,Phanat Nikhom,พนัสนิคม
+TH47,TH4705,Phang Khon,พังโคน
+TH47,TH4704,Phanna Nikhom,พรรณานิคม
+TH84,TH8410,Phanom,พนม
+TH32,TH3214,Phanom Dong Rak,พนมดงรัก
+TH45,TH4506,Phanom Phrai,พนมไพร
+TH24,TH2406,Phanom Sarakham,พนมสารคาม
+TH71,TH7109,Phanom Thuan,พนมทวน
+TH10,TH1022,Phasi Charoen,ภาษีเจริญ
+TH86,TH8606,Phato,พะโต๊ะ
+TH16,TH1602,Phatthana Nikhom,พัฒนานิคม
+TH57,TH5712,Phaya Mengrai,พญาเม็งราย
+TH10,TH1014,Phaya Thai,พญาไท
+TH44,TH4408,Phayakkhaphum Phisai,พยัคฆภูมิพิสัย
+TH33,TH3320,Phayu,พยุห์
+TH60,TH6010,Phayuha Khiri,พยุหะคีรี
+TH41,TH4119,Phen,เพ็ญ
+TH34,TH3419,Phibun Mangsahan,พิบูลมังสาหาร
+TH41,TH4123,Phibun Rak,พิบูลย์รักษ์
+TH53,TH5307,Phichai,พิชัย
+TH30,TH3015,Phimai,พิมาย
+TH80,TH8005,Phipun,พิปูน
+TH31,TH3115,Phlapphla Chai,พลับพลาชัย
+TH45,TH4508,Pho Chai,โพธิ์ชัย
+TH66,TH6603,Pho Prathap Chang,โพธิ์ประทับช้าง
+TH34,TH3421,Pho Sai,โพธิ์ไทร
+TH33,TH3321,Pho Si Suwan,โพธิ์ศรีสุวรรณ
+TH43,TH4317,Pho Tak,โพธิ์ตาก
+TH66,TH6606,Pho Thale,โพทะเล
+TH15,TH1504,Pho Thong,โพธิ์ทอง
+TH40,TH4012,Phon,พล
+TH38,TH3802,Phon Charoen,พรเจริญ
+TH47,TH4717,Phon Na Kaeo,โพนนาแก้ว
+TH43,TH4305,Phon Phisai,โพนพิสัย
+TH45,TH4513,Phon Sai,โพนทราย
+TH48,TH4810,Phon Sawan,โพนสวรรค์
+TH45,TH4507,Phon Thong,โพนทอง
+TH63,TH6307,Phop Phra,พบพระ
+TH70,TH7007,Photharam,โพธาราม
+TH10,TH1009,Phra Khanong,พระโขนง
+TH10,TH1001,Phra Nakhon,พระนคร
+TH14,TH1401,Phra Nakhon Si Ayutthaya,พระนครศรีอยุธยา
+TH80,TH8020,Phra Phrom,พระพรหม
+TH19,TH1909,Phra Phutthabat,พระพุทธบาท
+TH11,TH1104,Phra Pradaeng,พระประแดง
+TH11,TH1105,Phra Samut Chedi,พระสมุทรเจดีย์
+TH30,TH3028,Phra Thong Kham,พระทองคำ
+TH40,TH4003,Phra Yuen,พระยืน
+TH33,TH3306,Phrai Bueng,ไพรบึง
+TH62,TH6206,Phran Kratai,พรานกระต่าย
+TH50,TH5011,Phrao,พร้าว
+TH84,TH8416,Phrasaeng,พระแสง
+TH17,TH1704,Phrom Buri,พรหมบุรี
+TH80,TH8002,Phrom Khiri,พรหมคีรี
+TH65,TH6506,Phrom Phiram,พรหมพิราม
+TH56,TH5609,Phu Kamyao,ภูกามยาว
+TH36,TH3610,Phu Khiao,ภูเขียว
+TH42,TH4210,Phu Kradueng,ภูกระดึง
+TH42,TH4211,Phu Luang,ภูหลวง
+TH40,TH4020,Phu Pha Man,ภูผาม่าน
+TH47,TH4718,Phu Phan,ภูพาน
+TH55,TH5514,Phu Phiang,ภูเพียง
+TH42,TH4207,Phu Ruea,ภูเรือ
+TH56,TH5608,Phu Sang,ภูซาง
+TH33,TH3317,Phu Sing,ภูสิงห์
+TH40,TH4016,Phu Wiang,ภูเวียง
+TH84,TH8417,Phunphin,พุนพิน
+TH31,TH3109,Phutthaisong,พุทไธสง
+TH73,TH7307,Phutthamonthon,พุทธมณฑล
+TH48,TH4802,Pla Pak,ปลาปาก
+TH24,TH2409,Plaeng Yao,แปลงยาว
+TH81,TH8106,Plai Phraya,ปลายพระยา
+TH21,TH2106,Pluak Daeng,ปลวกแดง
+TH10,TH1008,Pom Prap Sattru Phai,ป้อมปราบศัตรูพ่า
+TH56,TH5606,Pong,ปง
+TH22,TH2204,Pong Nam Ron,โป่งน้ำร้อน
+TH41,TH4125,Prachaksinlapakhom,ประจักษ์ศิลปาคม
+TH25,TH2507,Prachantakham,ประจันตคาม
+TH31,TH3107,Prakhon Chai,ประโคนชัย
+TH77,TH7706,Pran Buri,ปราณบุรี
+TH33,TH3307,Prang Ku,ปรางค์กู่
+TH32,TH3205,Prasat,ปราสาท
+TH30,TH3013,Prathai,ประทาย
+TH10,TH1032,Prawet,ประเวศ
+TH55,TH5505,Pua,ปัว
+TH40,TH4011,Pueai Noi,เปือยน้อย
+TH96,TH9605,Ra-Ngae,ระแงะ
+TH95,TH9506,Raman,รามัน
+TH90,TH9007,Ranot,ระโนด
+TH33,TH3309,Rasi Salai,ราษีไศล
+TH10,TH1024,Rat Burana,ราษฎร์บูรณะ
+TH24,TH2407,Ratchasan,ราชสาส์น
+TH10,TH1037,Ratchathewi,ราชเทวี
+TH92,TH9209,Ratsada,รัษฎา
+TH32,TH3207,Rattanaburi,รัตนบุรี
+TH43,TH4316,Rattanawapi,รัตนวาปี
+TH90,TH9009,Rattaphum,รัตภูมิ
+TH48,TH4806,Renu Nakhon,เรณูนคร
+TH80,TH8013,Ron Phibun,ร่อนพิบูลย์
+TH46,TH4604,Rong Kham,ร่องคำ
+TH54,TH5402,Rong Kwang,ร้องกวาง
+TH96,TH9606,Rueso,รือเสาะ
+TH16,TH1608,Sa Bot,สระโบสถ์
+TH90,TH9006,Saba Yoi,สะบ้าย้อย
+TH90,TH9010,Sadao,สะเดา
+TH46,TH4609,Sahatsakhan,สหัสขันธ์
+TH94,TH9407,Sai Buri,สายบุรี
+TH10,TH1042,Sai Mai,สายไหม
+TH35,TH3502,Sai Mun,ทรายมูล
+TH62,TH6202,Sai Ngam,ไทรงาม
+TH12,TH1205,Sai Noi,ไทรน้อย
+TH62,TH6208,Sai Thong Watthana,ทรายทองวัฒนา
+TH71,TH7102,Sai Yok,ไทรโยค
+TH66,TH6609,Sak Lek,สากเหล็ก
+TH43,TH4314,Sakhrai,สระใคร
+TH46,TH4615,Sam Chai,สามชัย
+TH72,TH7208,Sam Chuk,สามชุก
+TH13,TH1307,Sam Khok,สามโคก
+TH66,TH6607,Sam Ngam,สามง่าม
+TH63,TH6303,Sam Ngao,สามเงา
+TH73,TH7306,Sam Phran,สามพราน
+TH77,TH7708,Sam Roi Yot,สามร้อยยอด
+TH40,TH4021,Sam Sung,ซำสูง
+TH15,TH1507,Samko,สามโก้
+TH50,TH5008,Samoeng,สะเมิง
+TH10,TH1013,Samphanthawong,สัมพันธวงศ์
+TH34,TH3422,Samrong,สำโรง
+TH32,TH3212,Samrong Thap,สำโรงทาบ
+TH50,TH5013,San Kamphaeng,สันกำแพง
+TH50,TH5012,San Pa Tong,สันป่าตอง
+TH50,TH5014,San Sai,สันทราย
+TH24,TH2408,Sanam Chai Khet,สนามชัยเขต
+TH41,TH4120,Sang Khom,สร้างคอม
+TH32,TH3210,Sangkha,สังขะ
+TH71,TH7108,Sangkhla Buri,สังขละบุรี
+TH43,TH4308,Sangkhom,สังคม
+TH18,TH1805,Sankhaburi,สรรคบุรี
+TH32,TH3208,Sanom,สนม
+TH55,TH5511,Santi Suk,สันติสุข
+TH19,TH1910,Sao Hai,เสาไห้
+TH36,TH3616,Sap Yai,ซับใหญ่
+TH10,TH1044,Saphan Sung,สะพานสูง
+TH18,TH1804,Sapphaya,สรรพยา
+TH50,TH5019,Saraphi,สารภี
+TH90,TH9002,Sathing Phra,สทิงพระ
+TH10,TH1028,Sathon,สาทร
+TH20,TH2009,Sattahip,สัตหีบ
+TH31,TH3111,Satuek,สตึก
+TH15,TH1505,Sawaeng Ha,แสวงหา
+TH61,TH6103,Sawang Arom,สว่างอารมณ์
+TH47,TH4712,Sawang Daen Din,สว่างแดนดิน
+TH34,TH3432,Sawang Wirawong,สว่างวีระวงศ์
+TH64,TH6407,Sawankhalok,สวรรคโลก
+TH86,TH8607,Sawi,สวี
+TH38,TH3804,Seka,เซกา
+TH45,TH4510,Selaphum,เสลภูมิ
+TH14,TH1412,Sena,เสนา
+TH37,TH3705,Senangkhanikhom,เสนางคนิคม
+TH93,TH9307,Si Banphot,ศรีบรรพต
+TH39,TH3904,Si Bun Rueang,ศรีบุญเรือง
+TH43,TH4307,Si Chiang Mai,ศรีเชียงใหม่
+TH40,TH4006,Si Chomphu,สีชมพู
+TH25,TH2508,Si Maha Phot,ศรีมหาโพธิ
+TH25,TH2509,Si Mahosot,ศรีมโหสถ
+TH34,TH3402,Si Mueang Mai,ศรีเมืองใหม่
+TH64,TH6408,Si Nakhon,ศรีนคร
+TH32,TH3215,Si Narong,ศรีณรงค์
+TH72,TH7205,Si Prachan,ศรีประจันต์
+TH20,TH2007,Si Racha,ศรีราชา
+TH33,TH3314,Si Rattana,ศรีรัตนะ
+TH96,TH9607,Si Sakhon,ศรีสาคร
+TH64,TH6406,Si Samrong,ศรีสำโรง
+TH64,TH6405,Si Satchanalai,ศรีสัชนาลัย
+TH71,TH7104,Si Sawat,ศรีสวัสดิ์
+TH45,TH4516,Si Somdet,ศรีสมเด็จ
+TH48,TH4808,Si Songkhram,ศรีสงคราม
+TH41,TH4109,Si That,ศรีธาตุ
+TH67,TH6706,Si Thep,ศรีเทพ
+TH38,TH3807,Si Wilai,ศรีวิไล
+TH80,TH8014,Sichon,สิชล
+TH30,TH3031,Sida,สีดา
+TH92,TH9205,Sikao,สิเกา
+TH30,TH3020,Sikhio,สีคิ้ว
+TH32,TH3209,Sikhoraphum,ศีขรภูมิ
+TH33,TH3322,Sila Lat,ศิลาลาด
+TH90,TH9015,Singhanakhon,สิงหนคร
+TH34,TH3425,Sirindhorn,สิรินธร
+TH38,TH3803,So Phisai,โซ่พิสัย
+TH52,TH5204,Soem Ngam,เสริมงาม
+TH30,TH3003,Soeng Sang,เสิงสาง
+TH22,TH2207,Soi Dao,สอยดาว
+TH46,TH4613,Somdet,สมเด็จ
+TH54,TH5406,Song,สอง
+TH47,TH4713,Song Dao,ส่องดาว
+TH55,TH5513,Song Khwae,สองแคว
+TH72,TH7207,Song Phi Nong,สองพี่น้อง
+TH58,TH5806,Sop Moei,สบเมย
+TH52,TH5211,Sop Prap,สบปราบ
+TH93,TH9311,Srinagarindra,ศรีนครินทร์
+TH96,TH9610,Su-Ngai Kolok,สุไหงโก-ลก
+TH96,TH9611,Su-Ngai Padi,สุไหงปาดี
+TH10,TH1034,Suan Luang,สวนหลวง
+TH70,TH7003,Suan Phueng,สวนผึ้ง
+TH85,TH8505,Suk Samran,สุขสำราญ
+TH96,TH9609,Sukhirin,สุคิริน
+TH54,TH5404,Sung Men,สูงเม่น
+TH30,TH3018,Sung Noen,สูงเนิน
+TH39,TH3905,Suwannakhuha,สุวรรณคูหา
+TH45,TH4511,Suwannaphum,สุวรรณภูมิ
+TH27,TH2703,Ta Phraya,ตาพระยา
+TH96,TH9602,Tak Bai,ตากใบ
+TH60,TH6012,Tak Fa,ตากฟ้า
+TH60,TH6007,Takhli,ตาคลี
+TH82,TH8205,Takua Pa,ตะกั่วป่า
+TH82,TH8204,Takua Thung,ตะกั่วทุ่ง
+TH10,TH1019,Taling Chan,ตลิ่งชัน
+TH93,TH9304,Tamot,ตะโหมด
+TH34,TH3420,Tan Sum,ตาลสุม
+TH47,TH4714,Tao Ngoi,เต่างอย
+TH66,TH6608,Tap Khlo,ทับคล้อ
+TH66,TH6604,Taphan Hin,ตะพานหิน
+TH43,TH4302,Tha Bo,ท่าบ่อ
+TH84,TH8407,Tha Chana,ท่าชนะ
+TH84,TH8411,Tha Chang,ท่าฉาง
+TH17,TH1705,Tha Chang,ท่าช้าง
+TH46,TH4611,Tha Khantho,ท่าคันโท
+TH42,TH4208,Tha Li,ท่าลี่
+TH16,TH1607,Tha Luang,ท่าหลวง
+TH22,TH2203,Tha Mai,ท่าใหม่
+TH71,TH7105,Tha Maka,ท่ามะกา
+TH71,TH7106,Tha Muang,ท่าม่วง
+TH91,TH9104,Tha Phae,ท่าแพ
+TH53,TH5303,Tha Pla,ท่าปลา
+TH14,TH1402,Tha Ruea,ท่าเรือ
+TH86,TH8602,Tha Sae,ท่าแซะ
+TH80,TH8008,Tha Sala,ท่าศาลา
+TH63,TH6305,Tha Song Yang,ท่าสองยาง
+TH24,TH2410,Tha Takiap,ท่าตะเกียบ
+TH60,TH6008,Tha Tako,ท่าตะโก
+TH32,TH3203,Tha Tum,ท่าตูม
+TH48,TH4803,Tha Uthen,ท่าอุเทน
+TH55,TH5506,Tha Wang Pha,ท่าวังผา
+TH16,TH1605,Tha Wung,ท่าวุ้ง
+TH76,TH7605,Tha Yang,ท่ายาง
+TH35,TH3509,Thai Charoen,ไทยเจริญ
+TH82,TH8208,Thai Mueang,ท้ายเหมือง
+TH83,TH8303,Thalang,ถลาง
+TH80,TH8018,Tham Phannara,ถ้ำพรรณรา
+TH95,TH9504,Than To,ธารโต
+TH13,TH1303,Thanyaburi,ธัญบุรี
+TH82,TH8207,Thap Put,ทับปุด
+TH77,TH7703,Thap Sakae,ทับสะแก
+TH61,TH6102,Thap Than,ทัพทัน
+TH48,TH4805,That Phanom,ธาตุพนม
+TH45,TH4505,Thawat Buri,ธวัชบุรี
+TH10,TH1048,Thawi Watthana,ทวีวัฒนา
+TH36,TH3609,Thep Sathit,เทพสถิต
+TH90,TH9005,Thepha,เทพา
+TH30,TH3026,Thepharak,เทพารักษ์
+TH52,TH5208,Thoen,เถิน
+TH57,TH5704,Thoeng,เทิง
+TH10,TH1015,Thon Buri,ธนบุรี
+TH71,TH7107,Thong Pha Phum,ทองผาภูมิ
+TH53,TH5309,Thong Saen Khan,ทองแสนขัน
+TH55,TH5508,Thung Chang,ทุ่งช้าง
+TH41,TH4107,Thung Fon,ทุ่งฝน
+TH51,TH5105,Thung Hua Chang,ทุ่งหัวช้าง
+TH45,TH4520,Thung Khao Luang,ทุ่งเขาหลวง
+TH10,TH1049,Thung Khru,ทุ่งครุ
+TH64,TH6409,Thung Saliam,ทุ่งเสลี่ยม
+TH34,TH3426,Thung Si Udom,ทุ่งศรีอุดม
+TH80,TH8009,Thung Song,ทุ่งสง
+TH86,TH8608,Thung Tako,ทุ่งตะโก
+TH91,TH9106,Thung Wa,ทุ่งหว้า
+TH80,TH8011,Thung Yai,ทุ่งใหญ่
+TH94,TH9406,Thung Yang Daeng,ทุ่งยางแดง
+TH34,TH3411,Trakan Phuet Phon,ตระการพืชผล
+TH53,TH5302,Tron,ตรอน
+TH72,TH7209,U Thong,อู่ทอง
+TH40,TH4008,Ubolratana,อุบลรัตน์
+TH63,TH6308,Umphang,อุ้มผาง
+TH14,TH1414,Uthai,อุทัย
+TH33,TH3310,Uthumphon Phisai,อุทุมพรพิสัย
+TH10,TH1039,Vadhana,วัฒนา
+TH84,TH8419,Vibhavadi,วิภาวดี
+TH66,TH6612,Wachirabarami,วชิรบารมี
+TH96,TH9608,Waeng,แว้ง
+TH40,TH4014,Waeng Noi,แวงน้อย
+TH40,TH4013,Waeng Yai,แวงใหญ่
+TH49,TH4906,Wan Yai,หว้านใหญ่
+TH21,TH2104,Wang Chan,วังจันทร์
+TH63,TH6309,Wang Chao,วังเจ้า
+TH54,TH5407,Wang Chin,วังชิ้น
+TH33,TH3316,Wang Hin,วังหิน
+TH19,TH1912,Wang Muang,วังม่วง
+TH30,TH3025,Wang Nam Khiao,วังน้ำเขียว
+TH27,TH2704,Wang Nam Yen,วังน้ำเย็น
+TH14,TH1411,Wang Noi,วังน้อย
+TH52,TH5207,Wang Nuea,วังเหนือ
+TH67,TH6710,Wang Pong,วังโป่ง
+TH66,TH6602,Wang Sai Phun,วังทรายพูน
+TH41,TH4110,Wang Sam Mo,วังสามหมอ
+TH42,TH4209,Wang Saphung,วังสะพุง
+TH27,TH2709,Wang Sombun,วังสมบูรณ์
+TH65,TH6508,Wang Thong,วังทอง
+TH10,TH1045,Wang Thonglang,วังทองหลาง
+TH92,TH9207,Wang Wiset,วังวิเศษ
+TH48,TH4812,Wang Yang,วังยาง
+TH47,TH4708,Wanon Niwat,วานรนิวาส
+TH44,TH4409,Wapi Pathum,วาปีปทุม
+TH34,TH3415,Warin Chamrap,วารินชำราบ
+TH47,TH4706,Waritchaphum,วาริชภูมิ
+TH65,TH6507,Wat Bot,วัดโบสถ์
+TH70,TH7009,Wat Phleng,วัดเพลง
+TH18,TH1803,Wat Sing,วัดสิงห์
+TH27,TH2705,Watthana Nakhon,วัฒนานคร
+TH57,TH5702,Wiang Chai,เวียงชัย
+TH57,TH5717,Wiang Chiang Rung,เวียงเชียงรุ้ง
+TH50,TH5020,Wiang Haeng,เวียงแหง
+TH57,TH5713,Wiang Kaen,เวียงแก่น
+TH40,TH4029,Wiang Kao,เวียงเก่า
+TH51,TH5108,Wiang Nong Long,เวียงหนองล่อง
+TH57,TH5711,Wiang Pa Pao,เวียงป่าเป้า
+TH84,TH8415,Wiang Sa,เวียงสระ
+TH55,TH5507,Wiang Sa,เวียงสา
+TH67,TH6705,Wichian Buri,วิเชียรบุรี
+TH19,TH1904,Wihan Daeng,วิหารแดง
+TH15,TH1506,Wiset Chai Chan,วิเศษชัยชาญ
+TH95,TH9505,Yaha,ยะหา
+TH10,TH1012,Yan Nawa,ยานนาวา
+TH92,TH9203,Yan Ta Khao,ย่านตาขาว
+TH33,TH3302,Yang Chum Noi,ยางชุมน้อย
+TH44,TH4411,Yang Sisurat,ยางสีสุราช
+TH46,TH4607,Yang Talat,ยางตลาด
+TH94,TH9410,Yarang,ยะรัง
+TH94,TH9409,Yaring,ยะหริ่ง
+TH96,TH9604,Yi-Ngo,ยี่งอ
